@@ -1,0 +1,17 @@
+{
+  "name": "bzzz666",
+  "theme": "syntax",
+  "version": "1.0.6",
+  "description": "บาคาร่า ออนไลน์ สมัครเล่นบาคาร่า & สล็อต ออนไลน์ จ่ายสูงสุด 1 : 1",
+  "keywords": [
+    "บาคาร่า",
+    "บาคาร่าออนไลน์",
+    "สมัครเล่นบาคาร่า",
+    "สล็อตออนไลน์"
+  ],
+  "repository": "https://github.com/earthza550/bzzzzz55",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
